@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "qstandarditemmodel": "cpp",
+        "ostream": "cpp",
+        "variant": "cpp",
+        "chrono": "cpp",
+        "qdebug": "cpp",
+        "typeinfo": "cpp"
+    }
+}

@@ -1,0 +1,5 @@
+/Users/honeydong/Code/Data_Management_system_seprate/build/CMakeFiles/MyQtApp.dir
+/Users/honeydong/Code/Data_Management_system_seprate/build/CMakeFiles/edit_cache.dir
+/Users/honeydong/Code/Data_Management_system_seprate/build/CMakeFiles/rebuild_cache.dir
+/Users/honeydong/Code/Data_Management_system_seprate/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir
+/Users/honeydong/Code/Data_Management_system_seprate/build/CMakeFiles/MyQtApp_autogen.dir
